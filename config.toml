@@ -2,7 +2,7 @@ baseurl = "https://harishsr.gitlab.io/blog/"
 contentdir    = "content"
 layoutdir     = "layouts"
 publishdir    = "public"
-title = "Comp Blog"
+title = "Comp Notes"
 canonifyurls  = true
 
 DefaultContentLanguage = "en"
@@ -14,7 +14,7 @@ pygmentCodeFences = true
 #googleAnalytics = "XXX"
 
 [Params]
-  subtitle = "Small lessons learned"
+  subtitle = "A blog with lessons learned along my journey"
   logo = "img/avatar-icon.png"
   favicon = "img/favicon.ico"
   dateFormat = "January 2, 2006"
