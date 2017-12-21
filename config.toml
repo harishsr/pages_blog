@@ -14,9 +14,9 @@ pygmentCodeFences = true
 #googleAnalytics = "XXX"
 
 [Params]
-  subtitle = "A blog with lessons learned along my journey"
-  logo = "img/avatar-icon.png"
-  favicon = "img/favicon.ico"
+  subtitle = "A blog of lessons I'm learning along my journey"
+  logo = "img/linux.png"
+  favicon = "img/linux.png"
   dateFormat = "January 2, 2006"
   commit = false
   rss = true
@@ -36,13 +36,12 @@ pygmentCodeFences = true
 [Author]
   name = "Harish Ramachandran"
   email = "harishsr@icloud.com"
-  googleplus = "+username"
   gitlab = "harishsr"
   github = "harishsr"
   twitter = "harishsr"
   linkedin = "harishsr"
   stackoverflow = "users/3799287/harish-ramachandran"
-  instagram = "harishsr"
+  instagram = "harishsr.h"
 
 [[menu.main]]
     name = "Blog"
@@ -51,30 +50,7 @@ pygmentCodeFences = true
 
 [[menu.main]]
     name = "About"
-    url = "page/about/"
-    weight = 3
-
-[[menu.main]]
-    identifier = "samples"
-    name = "Samples"
-    weight = 2
-
-[[menu.main]]
-    parent = "samples"
-    name = "Big Image Sample"
-    url = "post/2017-03-07-bigimg-sample"
-    weight = 1
-
-[[menu.main]]
-    parent = "samples"
-    name = "Math Sample"
-    url = "post/2017-03-05-math-sample"
-    weight = 2
-
-[[menu.main]]
-    parent = "samples"
-    name = "Code Sample"
-    url = "post/2016-03-08-code-sample"
+    url = "tags/about-me/"
     weight = 3
 
 [[menu.main]]
