@@ -1,7 +1,6 @@
 ---
 title: My First Post!
 date: 2017-12-17
-draft: true
 tags: ["about me"]
 bigimg:
   - { src: "img/pexels-photo-704767.jpeg" }
