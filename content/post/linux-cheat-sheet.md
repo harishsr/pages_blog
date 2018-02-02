@@ -1,6 +1,5 @@
 ---
 title: Linux Cheat Sheet
-date: 2018-02-01
 bigimg: [{src: "img/pexels-photo-68562.jpeg"}]
 tags: ["linux","cheat sheet"]
 ---
